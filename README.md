@@ -63,7 +63,7 @@ Pada proyek ini telah disediakan sebuah prototype untuk melakukan prediksi terha
 ```
 streamlit run app.py
 ```
-Atau buka tautan untuk membuka prototype yang sudah dijalankan pada streamlit community.
+Atau buka pada tautan [berikut](https://proyek-menyelesaikan-permasalahan-institusi-pendidikan-ec9nqfx.streamlit.app/) untuk membuka prototype yang sudah dijalankan pada streamlit community.
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
 
