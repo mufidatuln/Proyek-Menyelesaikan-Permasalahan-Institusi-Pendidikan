@@ -25,7 +25,7 @@ Berikut cakupan proyek yang telah dikerjakan:
 
 Sumber Data : [Jaya jaya institute]('data.csv')
 
-Setup environment:
+**Setup environment**:
 Setup environment:
 1. Pengguna membuka terminal dengan root yang telah ditentukan
 2. Pengguna mengistall virtual env
@@ -48,6 +48,30 @@ Setup environment:
 7. Melakukan install library yang digunakan sesuai requirement.txt
 8. Menjalankan jupiter notebook
 9. Melakukan input data baru yang ingin diprediksi
+
+**Setup metabase**:
+
+```
+docker pull metabase/metabase:v0.46.4
+docker run -p 3000:3000 --name metabase metabase/metabase
+Akses metabase pada http://localhost:3000/setup dan lakukan setup.
+```
+
+**Setup database (supabase)**:
+
+Buat akun dan login https://supabase.com/dashboard/sign-in.
+Buat new project
+Copy URI pada database setting
+Kirim dataset menggunakan sqlalchemy
+
+```
+from sqlalchemy import create_engine
+
+URL = "DATABASE_URL"
+
+engine = create_engine(URL)
+df.to_sql('dataset', engine)
+```
 
 
 ## Business Dashboard
