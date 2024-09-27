@@ -3,8 +3,8 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load('D:\Dicoding\Belajar-Penerapan-Data-Science\submission-2\model\gboost_model.joblib')
-scaler = joblib.load('D:\Dicoding\Belajar-Penerapan-Data-Science\submission-2\model\scaler.pkl')
+model = joblib.load('model/gboost_model.joblib')
+scaler = joblib.load('model/scaler.pkl')
 
 # Function to make predictions
 def predict_status(inputs):
