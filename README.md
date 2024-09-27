@@ -53,7 +53,7 @@ Setup environment:
 ## Business Dashboard
 Berikut adalah dashboard yang telah dibuat:
 
-![Dashboard]('https://github.com/mufidatuln/Proyek-Menyelesaikan-Permasalahan-Institusi-Pendidikan/blob/main/Dashboard%20Monitoring%20Mahasiswa-1.jpg')
+![Dashboard](https://github.com/mufidatuln/Proyek-Menyelesaikan-Permasalahan-Institusi-Pendidikan/blob/main/Dashboard%20Monitoring%20Mahasiswa-1.jpg)
 
 
 
