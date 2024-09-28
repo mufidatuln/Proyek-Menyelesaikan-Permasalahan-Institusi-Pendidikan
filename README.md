@@ -54,8 +54,9 @@ Setup environment:
 ```
 docker pull metabase/metabase:v0.46.4
 docker run -p 3000:3000 --name metabase metabase/metabase
-Akses metabase pada http://localhost:3000/setup dan lakukan setup.
 ```
+
+Akses metabase pada http://localhost:3000/setup dan lakukan setup.
 
 **Setup database (supabase)**:
 
