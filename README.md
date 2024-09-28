@@ -108,25 +108,14 @@ Proyek ini bertujuan untuk mengatasi masalah utama yang dihadapi Jaya Jaya Insti
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 Bimbingan Akademik yang Intensif:
 
-Sediakan sesi bimbingan akademik lebih intensif, terutama bagi mahasiswa yang berada dalam semester awal dan yang memiliki nilai rendah. Fokus pada memberikan dukungan di bidang yang mereka kesulitan.
-Program Pendampingan Senior-Junior:
+1. Sediakan sesi bimbingan akademik lebih intensif, terutama bagi mahasiswa yang berada dalam semester awal dan yang memiliki nilai rendah. Fokus pada memberikan dukungan di bidang yang mereka kesulitan. Mahasiswa yang mengalami masalah akademik dan pribadi, seperti yang tercermin dari faktor status pernikahan, mungkin memerlukan dukungan psikologis lebih besar. Universitas dapat menyediakan layanan konseling atau workshop terkait manajemen stres dan keterampilan belajar
+   
+2. Gunakan data dari analisis dropout (seperti yang terlihat dari marital status, beasiswa, atau hasil akademik) untuk mengidentifikasi mahasiswa berisiko sejak awal. Intervensi dapat dilakukan melalui konseling atau memberikan akses lebih besar ke sumber daya belajar. Buat sistem monitoring berkala untuk melihat perkembangan akademik setiap mahasiswa. Mahasiswa yang terdeteksi mengalami penurunan performa atau memiliki tanda-tanda ingin dropout dapat segera diintervensi dengan cara yang tepat.
+   
+3. Berdasarkan analisis penerima beasiswa, universitas perlu meningkatkan dukungan finansial, terutama bagi mahasiswa dari keluarga dengan kondisi ekonomi sulit. Tambahkan skema beasiswa atau bantuan biaya pendidikan.
+   
+4. Kurangi beban akademik untuk mahasiswa dengan kinerja rendah, terutama di semester awal. Misalnya, menawarkan pilihan untuk mengambil lebih sedikit mata kuliah atau memberikan opsi remedial untuk mata kuliah yang paling sering diambil oleh mahasiswa dropout, seperti yang teridentifikasi di dashboard.
+   
+5. Berdasarkan data mata kuliah yang paling sering diambil mahasiswa dropout (seperti Management dan Nursing), universitas dapat mereview kembali metode pengajaran dan beban kerja pada mata kuliah ini. Ini dapat berupa perubahan metode pengajaran, pengurangan beban kurikulum, atau menawarkan lebih banyak sumber belajar tambahan.
 
-Implementasikan program pendampingan di mana mahasiswa senior dapat memberikan bantuan atau panduan kepada mahasiswa baru atau yang berisiko dropout. Ini bisa mengurangi beban mental dan sosial yang mereka hadapi.
-Intervensi Berbasis Data untuk Mahasiswa Berisiko:
 
-Gunakan data dari analisis dropout (seperti yang terlihat dari marital status, beasiswa, atau hasil akademik) untuk mengidentifikasi mahasiswa berisiko sejak awal. Intervensi dapat dilakukan melalui konseling atau memberikan akses lebih besar ke sumber daya belajar.
-Dukungan Finansial:
-
-Berdasarkan analisis penerima beasiswa, universitas perlu meningkatkan dukungan finansial, terutama bagi mahasiswa dari keluarga dengan kondisi ekonomi sulit. Tambahkan skema beasiswa atau bantuan biaya pendidikan.
-Evaluasi dan Perbaikan Kurikulum:
-
-Kurangi beban akademik untuk mahasiswa dengan kinerja rendah, terutama di semester awal. Misalnya, menawarkan pilihan untuk mengambil lebih sedikit mata kuliah atau memberikan opsi remedial untuk mata kuliah yang paling sering diambil oleh mahasiswa dropout, seperti yang teridentifikasi di dashboard.
-Fokus pada Mata Kuliah Berisiko Tinggi:
-
-Berdasarkan data mata kuliah yang paling sering diambil mahasiswa dropout (seperti Management dan Nursing), universitas dapat mereview kembali metode pengajaran dan beban kerja pada mata kuliah ini. Ini dapat berupa perubahan metode pengajaran, pengurangan beban kurikulum, atau menawarkan lebih banyak sumber belajar tambahan.
-Pengembangan Program Dukungan Psikologis:
-
-Mahasiswa yang mengalami masalah akademik dan pribadi, seperti yang tercermin dari faktor status pernikahan, mungkin memerlukan dukungan psikologis lebih besar. Universitas dapat menyediakan layanan konseling atau workshop terkait manajemen stres dan keterampilan belajar.
-Pengawasan dan Monitoring Berkala:
-
-Buat sistem monitoring berkala untuk melihat perkembangan akademik setiap mahasiswa. Mahasiswa yang terdeteksi mengalami penurunan performa atau memiliki tanda-tanda ingin dropout dapat segera diintervensi dengan cara yang tepat.
